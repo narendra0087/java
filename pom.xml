@@ -54,7 +54,7 @@
 					<server>Tomcat1</server>
 					<path>/mywebapp</path>
 				</configuration>
-			 <plugin>
+			</plugin>
 			 </plugins>
 		 </build>
 </project>
